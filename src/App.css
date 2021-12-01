@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-red, .btn-red:hover, .btn-red:active, .btn-red:visited {
+    background-color: #5f0573 !important;
+    color:white;
+}
